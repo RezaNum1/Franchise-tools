@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div>
     <p align="center"><img src="https://github.com/RezaNum1/Franchise-tools/blob/master/public/assets/backend/images/brandowner1.png"></p>
 <h3 style="color:red;text-align:center">Franchise Tools</h3>
 <p>
@@ -6,3 +6,4 @@
     <p>
     Franchise Owner have a task for manage data franchise(one Franchise owner can have A lot franchise), Choose product according the brand, look day, month or year revenue report for his franchise and create an account for franchise admin for input all products sold
     </p>
+    </div>
