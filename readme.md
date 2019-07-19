@@ -1,4 +1,4 @@
-<div>
+
 <h3 style="color:red;text-align:center">Franchise Tools</h3>
      <p align="center"><img src="https://github.com/RezaNum1/Franchise-tools/blob/master/public/assets/backend/images/brandowner1.png"></p>
 <p>
@@ -11,4 +11,3 @@
     </p>
      <p align="center"><img src="https://github.com/RezaNum1/Franchise-tools/blob/master/public/assets/backend/images/franchowner.png"></p>
      <p align="center"><img src="https://github.com/RezaNum1/Franchise-tools/blob/master/public/assets/backend/images/franchise_Admin.png"></p>
-    </div>
